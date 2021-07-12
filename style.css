@@ -1,0 +1,57 @@
+body{
+font-family: fantasy;
+background: darkorchid;
+}
+.header_div{
+background: ghostwhite;
+color: midnightblue;
+}
+.header_div img{
+width: 100px;
+}
+.main_div label{
+width: 310px;
+margin-bottom: 0px;
+padding: 10px;
+background: mintcream;
+box-shadow: 5px 5px 18px white;
+}
+.main_div button{
+width: 310px;
+font-size: 16px;
+border: 1px solid ;
+box-shadow: 5px 5px 18px white;
+}
+#camera,#result
+{
+width: 310px;
+height: 300px;
+border: 2px solid;
+box-shadow: 5px 5px 18px white;
+}
+.footer_div{
+margin-bottom: 50px;
+}
+.footer_div h4{
+background: white;
+padding: 5px;
+border-radius: 10px;
+box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+width: 70px;
+}
+.copy_right_footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+line-height: 3;
+background: lavender;
+}
+.main_div{
+background: lavender;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid white;
+}
